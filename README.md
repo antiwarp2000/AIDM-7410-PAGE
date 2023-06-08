@@ -14,7 +14,8 @@ Specifically, we have collected and analyzed 2,880 entries and over 12,800 photo
 Our goal was to identify trends and characteristics of WPP awards both externally and internally, strive to demonstrate the overall criteria and taste of WPP awards (and their trends), and ultimately tend to acquire the answer and a guidance for you who are interested: <br><b>WHAT MAKES A PRIZE IN World Press Photo CONTESTS?</b>
 
 - <b>The Project WebPage can be accessed at:</b><br>
-[AIDM-7410-Webpage](https://antiwarp2000.github.io/AIDM-7410-PAGE/)
+<a href="https://antiwarp2000.github.io/AIDM-7410-PAGE/" target="_blank">AIDM-7410-Webpage</a>
+
 
 - <b>A detailed data collection and analysis process (including the application of AI models) can be accessed at:</b><br>
 [AIDM-7410-Datasets/Codes](https://github.com/antiwarp2000/AIDM-7410-Datasets-and-Codes)
