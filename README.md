@@ -17,5 +17,5 @@ Our goal was to identify trends and characteristics of WPP awards both externall
 [AIDM-7410-Webpage](https://antiwarp2000.github.io/AIDM-7410-PAGE/)
 
 - <b>A detailed data collection and analysis process (including the application of AI models) can be accessed at:</b><br>
-[AIDM-7410-Datasets/Codes](https://github.com/KIDult2226/AIDM-7410)
+[AIDM-7410-Datasets/Codes](https://github.com/antiwarp2000/AIDM-7410-Datasets-and-Codes)
 
